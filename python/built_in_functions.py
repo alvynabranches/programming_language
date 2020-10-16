@@ -1,0 +1,92 @@
+abs
+all
+any
+ascii
+bin
+bool
+breakpoint
+bytearray
+bytes
+callable
+chr
+classmethod
+compile
+complex
+delattr
+dict
+dir
+divmod
+enumerate
+eval
+exec
+filter
+float
+format
+frozenset
+getattr
+globals
+hasattr
+hash
+help
+hex
+id
+input
+int
+isinstance
+issubclass
+iter
+len
+list
+locals
+map
+max
+memoryview
+min
+next
+object
+oct
+open
+ord
+pow
+print
+property
+range
+repr
+reversed
+round
+set
+setattr
+slice
+sorted
+staticmethod
+str
+sum
+super
+tuple
+type
+vars
+# xrange
+zip
+__import__
+exit
+quit
+copyright
+license
+__debug__
+__dict__
+__file__
+__BuiltinFunction__
+__BuiltinMethodDescriptor__
+__build_class__
+__doc__
+__name__
+__package__
+__path__
+__spec__
+# __abs__
+# __add__
+# __eq__
+# __lt__
+# __rsub__
+# __imul__
+# __iand__
